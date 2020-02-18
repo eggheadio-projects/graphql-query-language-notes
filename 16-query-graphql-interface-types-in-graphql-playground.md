@@ -1,9 +1,3 @@
----
-title: "16. Query GraphQL Interface Types in GraphQL Playground"
-metaTitle: "16. Query GraphQL Interface Types in GraphQL Playground"
-metaDescription: "Learn about interfaces and how to use them to query different types of pets."
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-graphql-interface-types-in-graphql-playground)
 
 ## Summary

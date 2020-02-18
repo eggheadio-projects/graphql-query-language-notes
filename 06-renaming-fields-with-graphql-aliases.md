@@ -1,9 +1,3 @@
----
-title: "06. Renaming Fields with GraphQL Aliases"
-metaTitle: "06. Renaming Fields with GraphQL Aliases"
-metaDescription: "Learn how to renaming fields with GraphQL aliases."
----
-
 [Video Link](https://egghead.io/lessons/graphql-renaming-fields-with-graphql-aliases)
 
 ## Summary

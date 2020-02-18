@@ -1,9 +1,3 @@
----
-title: "14. Reuse GraphQL Selection Sets with Fragments"
-metaTitle: "14. Reuse GraphQL Selection Sets with Fragments"
-metaDescription: "Learn how to improve our query logic by creating a fragment for the activity selection set."
----
-
 [Video Link](https://egghead.io/lessons/graphql-reuse-graphql-selection-sets-with-fragments)
 
 ## Summary

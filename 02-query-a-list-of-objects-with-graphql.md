@@ -1,9 +1,3 @@
----
-title: "02. Query a List of Objects with GraphQL"
-metaTitle: "02. Query a List of Objects with GraphQL"
-metaDescription: "Learn how to query a list of objects with GraphQL."
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-a-list-of-objects-with-graphql)
 
 ## Summary

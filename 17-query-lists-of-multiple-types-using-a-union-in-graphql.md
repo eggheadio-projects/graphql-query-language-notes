@@ -1,9 +1,3 @@
----
-title: "17. Query Lists of Multiple Types using a Union in GraphQL"
-metaTitle: "17. Query Lists of Multiple Types using a Union in GraphQL"
-metaDescription: "Learn how to use unions to write a query that obtains a list of types."
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-lists-of-multiple-types-using-a-union-in-graphql)
 
 ## Summary

@@ -1,9 +1,3 @@
----
-title: "09. Create Operation Names for GraphQL Queries"
-metaTitle: "09. Create Operation Names for GraphQL Queries"
-metaDescription: "Learn how to create operation names for GraphQL Queries"
----
-
 [Video Link](https://egghead.io/lessons/graphql-create-operation-names-for-graphql-queries)
 
 ## Summary

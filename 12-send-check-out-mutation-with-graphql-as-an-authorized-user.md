@@ -1,9 +1,3 @@
----
-title: "12. Send a checkOut Mutation with GraphQL as an Authorized User"
-metaTitle: "12. Send a checkOut Mutation with GraphQL as an Authorized User"
-metaDescription: "Learn how to how to send a mutation based on current data to check out pets."
----
-
 [Video Link](https://egghead.io/lessons/graphql-send-a-checkout-mutation-with-graphql-as-an-authorized-user)
 
 ## Summary

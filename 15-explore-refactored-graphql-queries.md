@@ -1,9 +1,3 @@
----
-title: "15. Explore Refactored GraphQL Queries"
-metaTitle: "15. Explore Refactored GraphQL Queries"
-metaDescription: "Learn about the refactored Pet Library which includes a range of new queries."
----
-
 [Video Link](https://egghead.io/lessons/graphql-explore-refactored-graphql-queries)
 
 ## Summary

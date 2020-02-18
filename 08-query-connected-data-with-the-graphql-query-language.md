@@ -1,9 +1,3 @@
----
-title: "08. Query Connected Data with the GraphQL Query Language"
-metaTitle: "08. Query Connected Data with the GraphQL Query Language"
-metaDescription: "Learn how to query connected data with the GraphQL query language"
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-connected-data-with-the-graphql-query-language)
 
 ## Summary

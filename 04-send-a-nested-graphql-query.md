@@ -1,9 +1,3 @@
----
-title: "04. Send a Nested GraphQL Query"
-metaTitle: "04. Send a Nested GraphQL Query"
-metaDescription: "Learn how to send a nested GraphQL Query."
----
-
 [Video Link](https://egghead.io/lessons/graphql-send-a-nested-graphql-query)
 
 ## Summary

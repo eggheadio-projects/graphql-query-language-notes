@@ -1,9 +1,3 @@
----
-title: "05. Filter a GraphQL Query Result Using Arguments"
-metaTitle: "05. Filter a GraphQL Query Result Using Arguments"
-metaDescription: "Learn how to filter a GraphQL Query result using arguments."
----
-
 [Video Link](https://egghead.io/lessons/graphql-filter-a-graphql-query-result-using-arguments)
 
 ## Summary

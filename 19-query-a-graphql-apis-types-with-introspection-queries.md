@@ -1,9 +1,3 @@
----
-title: "19. Query a GraphQL API's Types With Introspection Queries"
-metaTitle: "19. Query a GraphQL API's Types With Introspection Queries"
-metaDescription: "Learn about introspection and write queries that will return information about the pet library schema."
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-a-graphql-api-s-types-with-introspection-queries)
 
 ## Summary

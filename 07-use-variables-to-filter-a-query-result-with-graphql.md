@@ -1,9 +1,3 @@
----
-title: "07. Use Variables to Filter a Query Result with GraphQL"
-metaTitle: "07. Use Variables to Filter a Query Result with GraphQL"
-metaDescription: "Learn how to use variables to filter a Query result with GraphQL."
----
-
 [Video Link](https://egghead.io/lessons/graphql-use-variables-to-filter-a-query-result-with-graphql)
 
 ## Summary

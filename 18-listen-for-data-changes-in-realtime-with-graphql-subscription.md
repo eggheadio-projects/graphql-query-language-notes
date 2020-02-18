@@ -1,9 +1,3 @@
----
-title: "18. Listen for Data Changes in Real-time with a GraphQL Subscription"
-metaTitle: "18. Listen for Data Changes in Real-time with a GraphQL Subscription"
-metaDescription: "Learn how to listen to checkIn and checkOut mutations in real time."
----
-
 [Video Link](https://egghead.io/lessons/graphql-listen-for-data-changes-in-real-time-with-a-graphql-subscription)
 
 ## Summary

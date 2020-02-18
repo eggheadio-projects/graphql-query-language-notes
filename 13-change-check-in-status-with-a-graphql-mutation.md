@@ -1,9 +1,3 @@
----
-title: "13. Change Check In Status with a GraphQL Mutation"
-metaTitle: "13. Change Check In Status with a GraphQL Mutation"
-metaDescription: "Learn how to check a pet in using a pet id."
----
-
 [Video Link](https://egghead.io/lessons/graphql-change-check-in-status-with-a-graphql-mutation)
 
 ## Summary

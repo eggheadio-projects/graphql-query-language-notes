@@ -1,9 +1,3 @@
----
-title: "03. Query an Enumeration Type with GraphQL"
-metaTitle: "03. Query an Enumeration Type with GraphQL"
-metaDescription: "Learn how to Query an enumeration type with GraphQL."
----
-
 [Video Link](https://egghead.io/lessons/graphql-query-an-enumeration-type-with-graphql)
 
 ## Summary

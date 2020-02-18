@@ -1,9 +1,3 @@
----
-title: "10. Use an Input Type to Create an Account with a GraphQL Mutation"
-metaTitle: "10. Use an Input Type to Create an Account with a GraphQL Mutation"
-metaDescription: "Use an input Type to create an account with a GraphQL mutation"
----
-
 [Video Link](https://egghead.io/lessons/graphql-use-an-input-type-to-create-an-account-with-a-graphql-mutation)
 
 ## Summary
