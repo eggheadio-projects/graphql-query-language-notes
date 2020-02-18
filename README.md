@@ -1,7 +1,13 @@
 <h1 align="center"><a href="https://egghead.io/courses/graphql-query-language">GraphQL Query Language</a></h1>
+
+<div align="center">
+  <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+  </p>
+</div>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/236/full/EGH_GraphQLQuery_Final.png" width="200"></p>
 
