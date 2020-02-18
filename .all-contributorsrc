@@ -1,0 +1,24 @@
+{
+  "projectName": "GraphQL Query Language Notes",
+  "projectOwner": "eggheadio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "laurosilvacom",
+      "name": "Lauro Silva",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57044804?v=4",
+      "profile": "https://laurosilva.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
