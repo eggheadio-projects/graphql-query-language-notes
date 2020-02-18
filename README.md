@@ -25,3 +25,5 @@ What you'll learn
 - Variables
 - Input types, unions, interfaces, & return payloads
 - Introspective Queries
+
+Cheatsheet by [Nicole Sattler](https://github.com/nikkilr88) and [Lauro Silva](https://github.com/laurosilvacom).
