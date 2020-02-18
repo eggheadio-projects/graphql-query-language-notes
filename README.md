@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://egghead.io/courses/graphql-query-language">GraphQL Query Language</a></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/236/full/EGH_GraphQLQuery_Final.png" width="200"></p>
@@ -43,6 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://laurosilva.com"><img src="https://avatars2.githubusercontent.com/u/57044804?v=4" width="100px;" alt=""/><br /><sub><b>Lauro Silva</b></sub></a><br /><a href="#content-laurosilvacom" title="Content">🖋</a></td>
+    <td align="center"><a href="http://devnikki.com"><img src="https://avatars3.githubusercontent.com/u/24983331?v=4" width="100px;" alt=""/><br /><sub><b>Nicole Sattler</b></sub></a><br /><a href="#content-nikkilr88" title="Content">🖋</a></td>
   </tr>
 </table>
 
