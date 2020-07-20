@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/eggheadio-course-notes">:warning: notes have been moved to eggheadio-course-notes!</a></h1>
+
 <h1 align="center"><a href="https://egghead.io/courses/graphql-query-language">GraphQL Query Language</a></h1>
 
 <div align="center">
